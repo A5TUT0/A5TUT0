@@ -9,4 +9,4 @@
 A5TUT0/A5TUT0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?A5TUT0=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![A5TUT0 GitHub stats](https://github-readme-stats.vercel.app/api?A5TUT0=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
