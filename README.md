@@ -23,9 +23,8 @@
 <h3>About Me:</h3>
 <p>
 <ul>
-<li>I'm a learning Software Dev Student in Switzerland 🇨🇭, Fribourg & Bern!</li>
+<li>I'm a learning Software Dev Student in Switzerland 🇨🇭, Bern!</li>
 <li>Not the best at Coding.</li>
-<li>ADHD and a little Autistic :)</li>
 <li>Dedicated Worker and really trying to Learn the Ways of the Software Dev :D</li>
 </ul>
 </p>
