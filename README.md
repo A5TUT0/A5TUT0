@@ -4,7 +4,7 @@
 
 ## 🌐 Sobre mí
 
-Desarrollador apasionado con experiencia en **[tus especialidades aquí]**. Siempre en busca de aprender y colaborar en proyectos interesantes.
+
 
 ## 🛠️ Tecnologías y Herramientas
 
