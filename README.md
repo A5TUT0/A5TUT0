@@ -1,7 +1,6 @@
-# ¡Hola! 👋 Soy A5TUT0
+# ¡Hola! 👋 Soy Noah
 
 [![GitHub followers](https://img.shields.io/github/followers/A5TUT0?style=social)](https://github.com/A5TUT0)
-[![Twitter Follow](https://img.shields.io/twitter/follow/A5TUT0?style=social)](https://twitter.com/A5TUT0)
 
 ## 🌐 Sobre mí
 
@@ -29,35 +28,10 @@ Desarrollador apasionado con experiencia en **[tus especialidades aquí]**. Siem
 - [**Proyecto 3**](https://github.com/A5TUT0/proyecto3): *Breve descripción del proyecto 3.*
 <!-- Añade más proyectos si lo deseas -->
 
-## ✍️ Últimos Posts en el Blog
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 ## 📫 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/A5TUT0/)
 [![Correo](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tuemail@example.com)
 [![Sitio Web](https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white)](https://www.tusitioweb.com)
 
-## 💡 Frase Motivacional
 
-_"La mejor manera de predecir el futuro es creándolo."_ — **Peter Drucker**
-
-## 🎵 Spotify Playing
-
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/A5TUT0)
-
-## 🐍 Snake Animation
-
-![Snake animation](https://github.com/A5TUT0/A5TUT0/blob/output/github-contribution-grid-snake.svg)
-
----
-
-**Nota:** Reemplaza los campos entre corchetes `[ ]` con tu información real y asegúrate de que los enlaces apunten a tus perfiles y proyectos. Para que algunos widgets funcionen correctamente, es posible que necesites configurar servicios adicionales o GitHub Actions:
-
-- **Últimos Posts en el Blog:** Puedes usar [dev.to API](https://dev.to/api) o un GitHub Action como [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow).
-- **Spotify Playing:** Necesitas configurar un servidor que actualice tu estado de Spotify, puedes seguir [novatorem](https://github.com/novatorem/novatorem).
-- **Snake Animation:** Configura [GitHub Actions](https://github.com/Platane/snk) para generar la animación.
-
-¡Espero que este README te ayude a crear un perfil de GitHub impresionante y profesional!
