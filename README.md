@@ -1,7 +1,4 @@
 # ¡Hola! 👋 Soy Noah
-
-[![GitHub followers](https://img.shields.io/github/followers/A5TUT0?style=social)](https://github.com/A5TUT0)
-
 ## 🌐 Sobre mí
 
 
