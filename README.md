@@ -16,7 +16,7 @@ Here are some of the projects I’ve been working on. They reflect my curiosity,
 
 **Tech Stack:** Tailwind, HTML, JavaScript, Figma
 
-![Project Image](online-shop.png)
+<img src="online-shop.png" width="400"/>
 
 ### 🎮 [Minekraft](https://github.com/A5TUT0/Minecraft3D)
 
@@ -24,7 +24,7 @@ Here are some of the projects I’ve been working on. They reflect my curiosity,
 
 **Tech Stack:** React, Three.js, JavaScript, Vite
 
-![Project Image](Minekraft.gif)
+<img src="Minekraft.gif" width="400"/>
 
 ### 🍴 [Recipe App](https://github.com/A5TUT0/Rezepte)
 
@@ -38,7 +38,7 @@ Here are some of the projects I’ve been working on. They reflect my curiosity,
 
 **Tech Stack:** Java, Figma, NetBeans, SQLite
 
-![Project Image](Recipe.png)
+<img src="Recipe.png" width="400"/>
 
 ---
 
@@ -69,7 +69,3 @@ I’m still learning, but here are some of the technologies I’ve had the chanc
 - **Email**: [contact@noahlezama.com](mailto:contact@noahlezama.com)
 - **Website**: [noahlezama.com](https://noahlezama.com)
 - **GitHub**: [A5TUT0](https://github.com/A5TUT0)
-
----
-
-**Thanks for stopping by!** Feel free to check out my projects, leave a star, or just drop me a message.
