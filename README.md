@@ -30,9 +30,15 @@ Here are some of the projects I’ve been working on. They reflect my curiosity,
 
 **Description:** A desktop app to manage recipes, developed in Java using NetBeans. It allowed me to work on database management with SQLite and implement features like adding, editing, and searching recipes. Working on this project taught me a lot about desktop application development and accessibility principles.
 
+**Collaborators:**
+
+- **Cyrill Augustiny** - [GitHub Profile](https://github.com/mcruguda)
+- **Adrian Jasaroska** - [GitHub Profile](https://github.com/JasaroskaAdrian)
+- **Leandro** - [GitHub Profile](https://github.com/leandro8080)
+
 **Tech Stack:** Java, Figma, NetBeans, SQLite
 
-![Project Image](project-image3.png)
+![Project Image](Recipe.png)
 
 ---
 
@@ -49,16 +55,16 @@ Here are some of the projects I’ve been working on. They reflect my curiosity,
 
 I’m still learning, but here are some of the technologies I’ve had the chance to work with:
 
-- **Frontend Development**: HTML, CSS, JavaScript, React, Tailwind
-- **Backend Development**: Express, SQLite
-- **Software Development**: Java, NetBeans
-- **Cybersecurity**: Basic Ethical Hacking, Python for Penetration Testing
+### Languages & Frameworks
+
+- **Frontend Development**: HTML5, CSS3, JavaScript, React, Tailwind CSS
+- **Backend Development**: Express, SQLite, MongoDB
+- **Software Development**: Java, Python
+- **Testing**: Cypress, Jest
 
 ---
 
 ## 📫 Contact
-
-I’m always open to learning new things and collaborating on projects. If you’d like to get in touch, here’s how you can reach me:
 
 - **Email**: [contact@noahlezama.com](mailto:contact@noahlezama.com)
 - **Website**: [noahlezama.com](https://noahlezama.com)
