@@ -24,7 +24,7 @@ Here are some of the projects I’ve been working on. They reflect my curiosity,
 
 **Tech Stack:** React, Three.js, JavaScript, Vite
 
-![Project Image](project-image2.png)
+![Project Image](Minekraft.gif)
 
 ### 🍴 [Recipe App](https://github.com/A5TUT0/Rezepte)
 
