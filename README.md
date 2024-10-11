@@ -1,34 +1,69 @@
-# ¡Hola! 👋 Soy Noah
-## 🌐 Sobre mí
+# 👋 Hi there, I'm Noah
 
+Welcome to my GitHub profile! I'm a **second-year application development student** based in Bern, Switzerland. I have a strong interest in learning about software development and cybersecurity. Although I’m just starting out, I love exploring new technologies and taking on new challenges to expand my knowledge.
 
+### 📍 Location: Bern, Switzerland
 
-## 🛠️ Tecnologías y Herramientas
+---
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-<!-- Añade más según corresponda -->
+## 🚀 Projects
 
-## 📊 Estadísticas de GitHub
+Here are some of the projects I’ve been working on. They reflect my curiosity, my willingness to learn, and my current skill set. Each one has helped me gain more experience and a deeper understanding of development.
 
-![Estadísticas de GitHub de A5TUT0](https://github-readme-stats.vercel.app/api?username=A5TUT0&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=A5TUT0&layout=compact&theme=radical)
+### 🌐 [Online Shop](https://github.com/A5TUT0/OnlineShop)
 
-## 🚀 Proyectos Destacados
+**Description:** This project is an online store where users can manage categories and products. I developed this using HTML, CSS, and JavaScript for the frontend, and an API with Express.js for the backend. It was a great way to learn about user authentication, building a basic API, and frontend design using Tailwind CSS.
 
-- [**Proyecto 1**](https://github.com/A5TUT0/proyecto1): *Breve descripción del proyecto 1.*
-- [**Proyecto 2**](https://github.com/A5TUT0/proyecto2): *Breve descripción del proyecto 2.*
-- [**Proyecto 3**](https://github.com/A5TUT0/proyecto3): *Breve descripción del proyecto 3.*
-<!-- Añade más proyectos si lo deseas -->
+**Tech Stack:** Tailwind, HTML, JavaScript, Figma
 
-## 📫 Contacto
+![Project Image](project-image1.png)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/A5TUT0/)
-[![Correo](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tuemail@example.com)
-[![Sitio Web](https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white)](https://www.tusitioweb.com)
+### 🎮 [Minekraft](https://github.com/A5TUT0/Minecraft3D)
 
+**Description:** A fun project where I recreated the game Minecraft using Three.js. It’s still a work in progress, but I’m excited about learning 3D rendering and game mechanics with this project. It’s my way of combining my love for gaming and coding.
 
+**Tech Stack:** React, Three.js, JavaScript, Vite
+
+![Project Image](project-image2.png)
+
+### 🍴 [Recipe App](https://github.com/A5TUT0/Rezepte)
+
+**Description:** A desktop app to manage recipes, developed in Java using NetBeans. It allowed me to work on database management with SQLite and implement features like adding, editing, and searching recipes. Working on this project taught me a lot about desktop application development and accessibility principles.
+
+**Tech Stack:** Java, Figma, NetBeans, SQLite
+
+![Project Image](project-image3.png)
+
+---
+
+## 📚 Education
+
+### 📅 Summer 2023 - Present | Software Developer Intern at [CsBe](https://csbe.ch)
+
+- Developed basic web applications using HTML, CSS, and JavaScript.
+- Worked in a team environment and learned about agile development practices.
+
+---
+
+## 🛠️ Skills
+
+I’m still learning, but here are some of the technologies I’ve had the chance to work with:
+
+- **Frontend Development**: HTML, CSS, JavaScript, React, Tailwind
+- **Backend Development**: Express, SQLite
+- **Software Development**: Java, NetBeans
+- **Cybersecurity**: Basic Ethical Hacking, Python for Penetration Testing
+
+---
+
+## 📫 Contact
+
+I’m always open to learning new things and collaborating on projects. If you’d like to get in touch, here’s how you can reach me:
+
+- **Email**: [contact@noahlezama.com](mailto:contact@noahlezama.com)
+- **Website**: [noahlezama.com](https://noahlezama.com)
+- **GitHub**: [A5TUT0](https://github.com/A5TUT0)
+
+---
+
+**Thanks for stopping by!** Feel free to check out my projects, leave a star, or just drop me a message.
