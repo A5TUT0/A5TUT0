@@ -16,7 +16,7 @@ Here are some of the projects I’ve been working on. They reflect my curiosity,
 
 **Tech Stack:** Tailwind, HTML, JavaScript, Figma
 
-![Project Image](project-image1.png)
+![Project Image](online-shop.png)
 
 ### 🎮 [Minekraft](https://github.com/A5TUT0/Minecraft3D)
 
