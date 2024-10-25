@@ -69,4 +69,3 @@ I’m still learning, but here are some of the technologies I’ve had the chanc
 - **Email**: [contact@noahlezama.com](mailto:contact@noahlezama.com)
 - **Website**: [noahlezama.com](https://noahlezama.com)
 - **GitHub**: [A5TUT0](https://github.com/A5TUT0)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A5TUT0&show_icons=true&theme=dark)
